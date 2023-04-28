@@ -15,6 +15,7 @@
     "componentry": "^5.0.0",
     "eslint-loader": "^4.0.2",
     "sass": "1.32.12",
-    "sass-loader": "^10.2.1"
+    "sass-loader": "^10.2.1",
+    "express": "1.0.0"
   }
 }
