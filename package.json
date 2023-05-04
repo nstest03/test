@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "2.1361.0",
-    "pg": "^8.7.1",
-    "stats-lite": "^2.2.0",
+    "@babel/runtime": "7.17.2",
+    "@storybook/addon-knobs": "^6.4.0",
+    "babel-plugin-styled-components": "^2.0.6",
+    "componentry": "^3.0.0",
+    "eslint-loader": "^4.0.2",
+    "sass-loader": "^10.2.1",
     "express": "1.0.0"
   }
 }
