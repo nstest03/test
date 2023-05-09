@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/runtime": "7.17.2",
     "sass-loader": "^10.2.1",
     "express": "1.0.0"
   }
