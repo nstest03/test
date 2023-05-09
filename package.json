@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "2.1361.0",
-    "pg": "^8.7.1",
-    "stats-lite": "^2.2.0",
+    "sass-loader": "^10.2.1",
     "express": "1.0.0"
   }
 }
